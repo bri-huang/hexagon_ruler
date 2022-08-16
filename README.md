@@ -1,7 +1,7 @@
 # hexagon_ruler
 Hexagon Ruler Design
 
-![laser cut prototype](2022-08-16_14-00-05_088 (2022-08-16T19_09_17.769).jpeg)
+![laser cut prototype](2022-08-16_14-00-05_088 (https://github.com/bri-huang/hexagon_ruler/blob/main/2022-08-16_14-00-05_088%20(2022-08-16T19_09_17.769).jpeg)
 
 Design based on the Sanrico [Hexagon Ruler](https://sanrico.com/products/sanrico-hexagon-angle-ruler)
 
